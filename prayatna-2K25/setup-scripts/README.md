@@ -5,5 +5,6 @@
 ### Pre-requisites
 
 1. Python 3.8 or later with boto3 dependencies installed
-2. Terraform CLI installed in your workstation
-3. AWS Account with the admin level access to create users.
+     => pip install -r requirements.txt
+3. Terraform CLI installed in your workstation based on OS
+4. AWS Account with the admin level access to create users.
